@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+/* USGBC Cascading Style Sheet - Internet Explorer Fixes */
+
+ul.dropdown li li {
+	 background-color: #303030;
+	 /*filter: alpha(opacity=90);*/
+}
+#content2 .wrapper {
+	*overflow: visible;
+}
+#sidebar ul {
+	_background: #eef1f4;
+}
+
+#main {
+	float: right;
+	_clear: right;
+}
+
+
+#main,
+#sidebar,
+#footer ul li,
+#foot2 ul li,
+#footer ul li li,
+#foot2 ul li li {
+	display: inline;
+}
+
+
+
+

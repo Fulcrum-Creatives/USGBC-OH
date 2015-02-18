@@ -1,0 +1,112 @@
+/* @group FONTS */
+
+/*
+ * Web Fonts from fontspring.com
+ *
+ * All OpenType features and all extended glyphs have been removed.
+ * Fully installable fonts can be purchased at http://www.fontspring.com
+ *
+ * The fonts included in this stylesheet are subject to the End User License you purchased
+ * from Fontspring. The fonts are protected under domestic and international trademark and 
+ * copyright law. You are prohibited from modifying, reverse engineering, duplicating, or
+ * distributing this font software.
+ *
+ * (c) 2010 Fontspring
+ *
+ * The fonts included are copyrighted by the vendor listed below.
+ *
+ * Vendor:      exljbris
+ * License URL: http://www.fontspring.com/fflicense/exljbris
+ */
+ 
+ /* MuseoSans100 */
+ @font-face {
+ 	font-family: 'MuseoSans100';
+ 	src: url('fonts/100/MuseoSans_100-webfont.eot'); /* IE9 Compat Modes */
+ 	src: url('fonts/100/MuseoSans_100-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+ 	     url('fonts/100/MuseoSans_100-webfont.woff') format('woff'), /* Modern Browsers */
+ 	     url('fonts/100/MuseoSans_100-webfont.ttf')  format('truetype'), /* Safari, Android, iOS */
+ 	     url('fonts/100/MuseoSans_100-webfont.svg#webfontiu8ZB6aE') format('svg'); /* Legacy iOS */
+ }
+ /* MuseoSans100Italic */
+ @font-face {
+ 	font-family: 'MuseoSans100Italic';
+ 	src: url('fonts/100i/MuseoSans_100_Italic-webfont.eot'); /* IE9 Compat Modes */
+ 	src: url('fonts/100i/MuseoSans_100_Italic-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+ 	     url('fonts/100i/MuseoSans_100_Italic-webfont.woff') format('woff'), /* Modern Browsers */
+ 	     url('fonts/100i/MuseoSans_100_Italic-webfont.ttf')  format('truetype'), /* Safari, Android, iOS */
+ 	     url('fonts/100i/MuseoSans_100_Italic-webfont.svg#webfont6ja1EDgZ') format('svg'); /* Legacy iOS */
+ }
+ /* MuseoSans300 */
+ @font-face {
+ 	font-family: 'MuseoSans300';
+ 	src: url('fonts/300/MuseoSans_300-webfont.eot'); /* IE9 Compat Modes */
+ 	src: url('fonts/300/MuseoSans_300-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+ 	     url('fonts/300/MuseoSans_300-webfont.woff') format('woff'), /* Modern Browsers */
+ 	     url('fonts/300/MuseoSans_300-webfont.ttf')  format('truetype'), /* Safari, Android, iOS */
+ 	     url('fonts/300/MuseoSans_300-webfont.svg#webfontZEAUnZMr') format('svg'); /* Legacy iOS */
+ }
+ /* MuseoSans300Italic */
+ @font-face {
+ 	font-family: 'MuseoSans300Italic';
+ 	src: url('fonts/300i/MuseoSans_300_Italic-webfont.eot'); /* IE9 Compat Modes */
+ 	src: url('fonts/300i/MuseoSans_300_Italic-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+ 	     url('fonts/300i/MuseoSans_300_Italic-webfont.woff') format('woff'), /* Modern Browsers */
+ 	     url('fonts/300i/MuseoSans_300_Italic-webfont.ttf')  format('truetype'), /* Safari, Android, iOS */
+ 	     url('fonts/300i/MuseoSans_300_Italic-webfont.svg#webfontmUh74Pon') format('svg'); /* Legacy iOS */
+ }
+ /* MuseoSans500 */
+ @font-face {
+ 	font-family: 'MuseoSans500';
+ 	src: url('fonts/500/MuseoSans_500-webfont.eot'); /* IE9 Compat Modes */
+ 	src: url('fonts/500/MuseoSans_500-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+ 	     url('fonts/500/MuseoSans_500-webfont.woff') format('woff'), /* Modern Browsers */
+ 	     url('fonts/500/MuseoSans_500-webfont.ttf')  format('truetype'), /* Safari, Android, iOS */
+ 	     url('fonts/500/MuseoSans_500-webfont.svg#webfontYZ6ZshTL') format('svg'); /* Legacy iOS */
+ }
+ /* MuseoSans500Italic */
+ @font-face {
+ 	font-family: 'MuseoSans500Italic';
+ 	src: url('fonts/500i/MuseoSans_500_Italic-webfont.eot'); /* IE9 Compat Modes */
+ 	src: url('fonts/500i/MuseoSans_500_Italic-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+ 	     url('fonts/500i/MuseoSans_500_Italic-webfont.woff') format('woff'), /* Modern Browsers */
+ 	     url('fonts/500i/MuseoSans_500_Italic-webfont.ttf')  format('truetype'), /* Safari, Android, iOS */
+ 	     url('fonts/500i/MuseoSans_500_Italic-webfont.svg#webfontgohO71vE') format('svg'); /* Legacy iOS */
+ }
+ /* MuseoSans700 */
+ @font-face {
+ 	font-family: 'MuseoSans700';
+ 	src: url('fonts/700/MuseoSans_700-webfont.eot'); /* IE9 Compat Modes */
+ 	src: url('fonts/700/MuseoSans_700-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+ 	     url('fonts/700/MuseoSans_700-webfont.woff') format('woff'), /* Modern Browsers */
+ 	     url('fonts/700/MuseoSans_700-webfont.ttf')  format('truetype'), /* Safari, Android, iOS */
+ 	     url('fonts/700/MuseoSans_700-webfont.svg#webfontQmzHdyBH') format('svg'); /* Legacy iOS */
+ }
+ /* MuseoSans700Italic */
+ @font-face {
+ 	font-family: 'MuseoSans700Italic';
+ 	src: url('fonts/700i/MuseoSans_700_Italic-webfont.eot'); /* IE9 Compat Modes */
+ 	src: url('fonts/700i/MuseoSans_700_Italic-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+ 	     url('fonts/700i/MuseoSans_700_Italic-webfont.woff') format('woff'), /* Modern Browsers */
+ 	     url('fonts/700i/MuseoSans_700_Italic-webfont.ttf')  format('truetype'), /* Safari, Android, iOS */
+ 	     url('fonts/700i/MuseoSans_700_Italic-webfont.svg#webfont00ubZW3A') format('svg'); /* Legacy iOS */
+ }
+ /* MuseoSans900 */
+ @font-face {
+ 	font-family: 'MuseoSans900';
+ 	src: url('fonts/900/MuseoSans_900-webfont.eot'); /* IE9 Compat Modes */
+ 	src: url('fonts/900/MuseoSans_900-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+ 	     url('fonts/900/MuseoSans_900-webfont.woff') format('woff'), /* Modern Browsers */
+ 	     url('fonts/900/MuseoSans_900-webfont.ttf')  format('truetype'), /* Safari, Android, iOS */
+ 	     url('fonts/900/MuseoSans_900-webfont.svg#webfontO7SiAgHb') format('svg'); /* Legacy iOS */
+ }
+ /* MuseoSans900Italic */
+ @font-face {
+ 	font-family: 'MuseoSans900Italic';
+ 	src: url('fonts/900i/MuseoSans_900_Italic-webfont.eot'); /* IE9 Compat Modes */
+ 	src: url('fonts/900i/MuseoSans_900_Italic-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+ 	     url('fonts/900i/MuseoSans_900_Italic-webfont.woff') format('woff'), /* Modern Browsers */
+ 	     url('fonts/900i/MuseoSans_900_Italic-webfont.ttf')  format('truetype'), /* Safari, Android, iOS */
+ 	     url('fonts/900i/MuseoSans_900_Italic-webfont.svg#webfontbcr1RLGT') format('svg'); /* Legacy iOS */
+ }
+/* @end */
